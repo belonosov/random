@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(70deg,blue, pink);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+
+
+}
+
+.img {
+    text-align: center;
+}
+
+.links {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    display: table-cell;
+    font-size: 32px;
+    width: 200px;
+    height: 200px;
+    background: none;
+    text-align: center;
+    vertical-align: middle;
+
+
+}
+
+.front {
+    font-size: large;
+    color: rgb(0, 0, 0);
+
+}
+
+.discription {
+    color: rgb(255, 255, 255);
+}
