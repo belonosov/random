@@ -1,12 +1,11 @@
-function age() {
-    let age = prompt("Введите Ваш возраст?")
-        if (age >= 18) {
-            alert("Добро пожаловать!")
-        } else {
-            alert("Рекомендуем раздел мультфильмы :)")
-        
-        }
-    }
+
+let age = prompt("Введите Ваш возраст?")
+    if (age >= 18) {
+        alert("Добро пожаловать!")
+    } else {
+        alert("Рекомендуем раздел мультфильмы :)")
+}
+
 
 function username() {
     let name = document.getElementById('name').value
