@@ -9,6 +9,13 @@ body {
 
 }
 
+.main {
+    text-align: right;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: large;
+
+}
+
 .img {
     text-align: center;
 }
@@ -17,6 +24,7 @@ body {
     text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: large;
+    color: white;
     
 
 
