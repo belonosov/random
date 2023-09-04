@@ -16,12 +16,7 @@ body {
 .links {
     text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
-    display: table-cell;
-    font-size: 32px;
-    width: 200px;
-    height: 200px;
-    background: none;
-    
+    font-size: large;
     
 
 
