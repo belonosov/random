@@ -10,9 +10,11 @@ body {
 }
 
 .main {
-    text-align: right;
     font-family: Comic Sans MS, Comic Sans, cursive;
-    font-size: large;
+    text-align: right;
+    text-decoration: none;
+    word-spacing: 15px;
+    text-decoration: underline;
 
 }
 
@@ -24,7 +26,7 @@ body {
     text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: large;
-    color: white;
+    text-decoration: underline;
     
 
 
